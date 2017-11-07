@@ -1,7 +1,7 @@
 # Hotel-Manager
 
 - Phần mềm dạng ứng dụng cho máy tính cá nhân, chỉ có nhân viên lễ tân, nhân viên bán hàng, quản lí khách sạn được sử dụng. Áp dụng cho các khách sạn có quy mô nhỏ và trung binh
-Chức năng:
+- Chức năng:
 - Nhân viên lễ tân:
     + Tìm phòng trống theo yêu cầu trực tiếp của khách
     + Checkin cho khách đã đặt phòng hoặc đặt phòng trực tiếp
